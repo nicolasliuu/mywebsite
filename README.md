@@ -1,3 +1,5 @@
+A personal website inspired by https://brittanychiang.com/
+
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
