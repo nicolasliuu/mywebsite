@@ -3,8 +3,7 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Nicolas Liu',
-    description:
-      'Nicolas Liu's Personal Website: Nice to meet you!',
+    description: 'Nicolas Liu\'s Personal Website: Nice to meet you!',
     siteUrl: 'https://nicolasliu.com', // No trailing slash allowed!
     image: '/b.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@nicolasliu19',
